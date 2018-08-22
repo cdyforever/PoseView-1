@@ -1,0 +1,13 @@
+{
+
+    "version": "0.1.0",
+    
+    "command": "E:/Python/python",
+    
+    "isShellCommand": true,
+    
+    "args": ["${file}"],
+    
+    "showOutput": "always"
+    
+}
